@@ -1,0 +1,288 @@
+[[osmium]]
+arch = "aarch64"
+git-tree-sha1 = "2bc9eb8a30fb26aad97fa4ebaece5487856e49bf"
+os = "macos"
+
+    [[osmium.download]]
+    sha256 = "1ba3770ee8790deeb979ff97d1103072042b95a32ec0d2d1cfc7789133c12f89"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.aarch64-apple-darwin.tar.gz"
+[[osmium]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8f66a820dec85213598e1357938d8d7831e1c58e"
+libc = "glibc"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "6a38b598f3dfd9ec43ed6aaca2e70372cdb9dd2cfca414f12bd380c0a578c6dc"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[osmium]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b9a3e2a02e6cb5c14a1a7b7f224f635e2c003c4"
+libc = "glibc"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "26131933c36d331b7b1bb7ed5cd8639dfad3533c66e5bdc86123a8200e6d8bad"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[osmium]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8e7d9cb8e2d18aec7509e9c5b1d9e32588a5fd68"
+libc = "musl"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "2f124b0569bda11bfecda3974a83d0596bb4052fe38abb5881b710d82cddd109"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.aarch64-linux-musl-cxx03.tar.gz"
+[[osmium]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dec0669b917b3fcd1468b03bf5d796e688d10a69"
+libc = "musl"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "9c3d6b1322e9e0cf16f87def4e1f7697f408d62df33e34618c2b3342b76cf0a0"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.aarch64-linux-musl-cxx11.tar.gz"
+[[osmium]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "744b9857da284c6660241390180dba6ffd35a889"
+libc = "glibc"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "8800836992f92a28cb14fcd28cdbb27563be2defcf7dd88d0865c191f064f85e"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[osmium]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "295feb283998232411fbda049d24db497ce7ac92"
+libc = "glibc"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "77599026bdef748e3b14596cc67c535df3c9508d480523dadd5a1204da566f3e"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[osmium]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c0e2ecdbd759f7b1b33934b333a56d182dad7bb0"
+libc = "musl"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "f4dab2773ecf74aae415abfe7d63a829fa98b8ad9f5cfec862509871afc36432"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[osmium]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b530abb4e55da41d6ea251f73cd8958bb7e4dd9"
+libc = "musl"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "02f0eb633e0e1643dd3ce7fd04507d34c349659977670be800cd99df923988b1"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[osmium]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a989960c142686db9b89a14a071ee495559adee4"
+libc = "glibc"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "e42558988602c35733e8f37649d4db62d5c5c40fd608b64c301053541401b213"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[osmium]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6d13e2d37abe8549ecd5119527d7d8c5a0d3283e"
+libc = "glibc"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "9b9d587dd1cce0b9badb7e3d101a14054a18d83cf1845aff7715c8401a8ba9f3"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[osmium]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "34c18c757df44b794d686c709621adaaa58aa250"
+libc = "musl"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "7a8f5792a7acb63d8216c687c15275f1161b6cffa34c88b0946787395cefd422"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[osmium]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9c7ed6d7e3a5b74f75119dfba1675a1a2a2fc1ed"
+libc = "musl"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "d23b3b47d78ef123e817ad9acfa22cfd6ffc6ceb369fc67bf3cd82fb2416cec7"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[osmium]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d81f170c5d085d0d7fb76b464e957fbede9c1831"
+libc = "glibc"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "e579c51e62a80be2b9640dc12ee18f149a50ef529e24ae72a922931cc954937c"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.i686-linux-gnu-cxx03.tar.gz"
+[[osmium]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "249424513e4c38f95e1a20fcd863bfc6fcca02ef"
+libc = "glibc"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "268bdfb841b075b493294c77b4cade2f893ad4fb05e70eab6de4ca6b9e08e6e3"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.i686-linux-gnu-cxx11.tar.gz"
+[[osmium]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "38eab117ea27e0c2d184f21d73eb699d460aaf19"
+libc = "musl"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "ecf802f0b49ae3fe8d6d01bde52962e689d8a9e744ae2a2557111eb3dfc51bd2"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.i686-linux-musl-cxx03.tar.gz"
+[[osmium]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cfad1bcf70f271d6779debfaea844e7460c8af41"
+libc = "musl"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "985b0e48760c444597b3765afbf352cdd89f2aae4e887ba3e5e9582b0f0563f9"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.i686-linux-musl-cxx11.tar.gz"
+[[osmium]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0b97b9be8370e5ed05e3c0ea91b893fd986b4797"
+os = "windows"
+
+    [[osmium.download]]
+    sha256 = "f1d94b5b718c1ca60a3d5cfb2a3f4ae6768fed610184ed5d055a6b84ee4864c9"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.i686-w64-mingw32-cxx03.tar.gz"
+[[osmium]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d897e93cddf83011c9769d300bb3f6c7c0101213"
+os = "windows"
+
+    [[osmium.download]]
+    sha256 = "34460dcad6f5ea6128710dd0829293c8c9534575097203387d18f32e7caee44a"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.i686-w64-mingw32-cxx11.tar.gz"
+[[osmium]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "23b7b5dda592e2a112ac62f34d44aecd9630c593"
+libc = "glibc"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "5f3f6adc0eebfbf84c1b6ae2613d55113bca59c59eb63a6bcb4686a16f9c4fdb"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[osmium]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bdf02e5f5cdfb13a99481e154779efd2a88d281e"
+libc = "glibc"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "0f9577776934224e8bcc3ac13283a33ad817ff2b8945213e93e28b68c56a20ad"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[osmium]]
+arch = "x86_64"
+git-tree-sha1 = "1c3dc481b362f9d612dd80c8077e25a9cb98ad07"
+os = "macos"
+
+    [[osmium.download]]
+    sha256 = "a9b377a676b2970a7f61b6daa1c754f564397459f201233a6bd0993e1d299004"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.x86_64-apple-darwin.tar.gz"
+[[osmium]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e519580268d14ef9cc706be1f0b28350202daed6"
+libc = "glibc"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "df0136c1990718586f59c91a1bdb07ca95157a40745d642c2c99c334b0e74a8a"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[osmium]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "07c78bdfc9584e52df355ce3490c8f19931aa5c2"
+libc = "glibc"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "6c860825701a73a45f1e400ce2b2def6090ad126101ef3f632e25aac9d5cb28f"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[osmium]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "96e62e5234b5366f3376a18c0bf99f58d8278a82"
+libc = "musl"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "31aaa688e4878cf54f87a0c1910de1bc235b1634a3a647d9341c1884305eaee1"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.x86_64-linux-musl-cxx03.tar.gz"
+[[osmium]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e71a11d3c456da768f9dcb992a5b4dc99a1e7e27"
+libc = "musl"
+os = "linux"
+
+    [[osmium.download]]
+    sha256 = "3ea30fa433088ec5a695d093807748efe78c383b9e72d913a454f92e99ecbc23"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.x86_64-linux-musl-cxx11.tar.gz"
+[[osmium]]
+arch = "x86_64"
+git-tree-sha1 = "29cd42a851e9c78a01b5778f78ace8eec436725e"
+os = "freebsd"
+
+    [[osmium.download]]
+    sha256 = "9b5c6b5d3e4c03d275b177378291e2966c546f32211790d2eb8c3c38cea53a12"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.x86_64-unknown-freebsd.tar.gz"
+[[osmium]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "922299c3dbb541df1aee743a39141b5f86724567"
+os = "windows"
+
+    [[osmium.download]]
+    sha256 = "3e564663f7379a9bf543c1ae9a2ce7e60b66bd19d8de9d2550b562a3eedeeec2"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[osmium]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "20dd13ababec25b15601684f72d284dbd1a42088"
+os = "windows"
+
+    [[osmium.download]]
+    sha256 = "ee4818eeda0c5cc2c7bcdff4dff0b9173dfb2ece98be8c2054c637e246314c6f"
+    url = "https://github.com/JuliaBinaryWrappers/osmium_jll.jl/releases/download/osmium-v1.14.0+0/osmium.v1.14.0.x86_64-w64-mingw32-cxx11.tar.gz"
