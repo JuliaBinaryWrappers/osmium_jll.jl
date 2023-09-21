@@ -1,10 +1,9 @@
 name = "osmium_jll"
 uuid = "4698e515-9779-5814-ac19-c1da39f829b4"
-version = "1.15.0+0"
+version = "1.16.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Bzip2_jll = "6e34b625-4abd-537c-b88f-471c36dfa7a0"
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
